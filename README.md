@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Piotr, Front-end developer](https://assets.selleo.com/banners/pmotak.svg)](https://selleo.com/)
+[![Piotr, Full-Stack Developer](https://assets.selleo.com/banners/pmotak.svg)](https://selleo.com/)
 <!--
 **Arab/Arab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
